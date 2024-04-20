@@ -4,7 +4,7 @@ Notes App
 
 ## Introduction
 
-This is the Notes App that I managed to develop in 4 hours. For the front-end I used React.js, and for the back-end I used Node.js, Express and MongoDb.
+This is the Photo-Gallery App that I managed to develop in 4 hours. For the front-end I used React.js, and for the back-end I used Node.js, Express and MongoDb.
 
 ### Prerequisites
 
