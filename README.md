@@ -1,6 +1,6 @@
 # Project Title
 
-Notes App
+Photo-Gallery App
 
 ## Introduction
 
